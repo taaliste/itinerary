@@ -18,10 +18,10 @@ The program takes three arguments:
 
 The input file should contain itinerary data with airport codes and dates/times in the following format:
 
-- Airport codes are represented as ##CODE or #CODE for ICAO and IATA codes respectively.
+- Airport codes are represented as **##CODE** or **#CODE** for ICAO and IATA codes respectively.
 - City names are represented as *##CODE or *#CODE for ICAO and IATA codes respectively.
-- Dates are represented as D(YYYY-MM-DDTHH:MM-SS:00).
-- Times are represented as T12(HH:MM-SS:00) for 12-hour format and T24(HH:MM-SS:00) for 24-hour format.
+- Dates are represented as **D(YYYY-MM-DDTHH:MM-SS:00)**.
+- Times are represented as **T12(HH:MM-SS:00)** for 12-hour format and **T24(HH:MM-SS:00)** for 24-hour format.
 
 ## Airport Lookup Format
 

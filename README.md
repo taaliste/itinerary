@@ -4,9 +4,9 @@ This is a Go program that processes an itinerary file, replacing airport codes w
 
 ## Usage
 
-To run the program, use the following command:
+**To run the program, use the following command:**
 
- go run . ./input.txt ./output.txt ./airport-lookup.csv
+ ```go run . ./input.txt ./output.txt ./airport-lookup.csv```
 
 The program takes three arguments:
 
